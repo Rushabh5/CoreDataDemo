@@ -1,0 +1,6 @@
+framework module Pods_MoonPrac {
+  umbrella header "Pods-MoonPrac-umbrella.h"
+
+  export *
+  module * { export * }
+}
